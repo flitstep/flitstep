@@ -1,17 +1,19 @@
 # Sofya Evseeva
 
-* Junior IT nerd from Saint-Petersburg
+* Junior IT [nerd](/SofaWorksITCrowd.mp4) from Saint-Petersburg
 
 #### === Objectives ===
 
 * Technical support - hosting, ISP
 * QA tester
 * Customer success manager
+* Prompt engineer
 
 #### === Skills and interests ===
 
 * Backend - Python, Linux
 * Frontend - TypeScript, CSS
+* AI
 
 #### === Working history ===
 
